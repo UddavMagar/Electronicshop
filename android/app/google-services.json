@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619053376989",
+    "project_id": "electronicshop-5bef9",
+    "storage_bucket": "electronicshop-5bef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619053376989:android:df2c9b92878c0e4e56c234",
+        "android_client_info": {
+          "package_name": "com.example.electronicshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619053376989-dn93mk8ju1bekggv64s4nqjou4sr9iqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLb1yHViwAhvJ6HbjQ6ny4P5vKoG-jD1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619053376989-dn93mk8ju1bekggv64s4nqjou4sr9iqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
